@@ -51,6 +51,5 @@ updateCounter(count);
 
 // Service Worker for Offline Use
 if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('./sw.
-                                     js');
+    navigator.serviceWorker.register('./sw.js');
 }
