@@ -1,7 +1,7 @@
 {
   "name": "jTrack Counter",
   "short_name": "jTrack",
-  "start_url": ".",
+  "start_url": "/jTrack/",
   "display": "standalone",
   "background_color": "#f0f2f5",
   "theme_color": "#4CAF50",
